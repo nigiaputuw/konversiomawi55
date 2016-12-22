@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class konversiromawi  {
+public class konversibulat  {
 
     public static void main(String[] args) {
         int lagi = 0;
