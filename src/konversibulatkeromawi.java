@@ -4,7 +4,6 @@ import java.util.Scanner;
  * Created by ACER on 2016/12/22.
  */
 public class konversibulatkeromawi {
-    import java.util.Scanner;
 
         public static void main(String[] args) {
             int lagi = 0;
@@ -95,4 +94,4 @@ public class konversibulatkeromawi {
             while (lagi == 1);
         }
     }
-}
+
